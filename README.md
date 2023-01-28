@@ -1,16 +1,58 @@
-### Hi there 👋
+## Hi, I'm Daniel Vitor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**danielvitor2d/danielvitor2d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ReactJS, NodeJS
+- 🌱 I’m currently learning ReactJS, NodeJS, React Native
+- ⚡ Fun fact: I like to practice Karate, read mangas and I program 90% of the time
 
-Here are some ideas to get you started:
+<h2 align="left"> 🚀 Skills </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img src="https://icongr.am/devicon/html5-original.svg?size=35&color=currentColor" />
+  <img src="https://icongr.am/devicon/css3-original.svg?size=35&color=currentColor" />
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=35&color=currentColor" />
+  <img src="https://icongr.am/devicon/typescript-original.svg?size=35&color=currentColor" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="35" height="35" />
+  <img src="https://icongr.am/devicon/react-original.svg?size=35&color=currentColor" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="35" height="35" />
+  <img src="https://icongr.am/devicon/linux-original.svg?size=35&color=currentColor" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" height="35" />
+</div>
+
+<h2 align="left"> 📱 Contact me </h2>
+
+<div align="center" justify="center">
+  <a href="https://www.linkedin.com/in/danielvitor2d/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link" />
+  </a>
+  <a href="https://www.instagram.com/danielvitor.dev/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:danieldev.ti@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/danielvitor2d/danielvitor2d">
+    <img alt="Counter" src="https://komarev.com/ghpvc/?username=danielvitor2d&color=brightgreen" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/danielvitor2d">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielvitor2d&show_icons=true&theme=radical&count_private=true&layout=compact&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielvitor2d&show_icons=true&theme=radical&count_private=true" />
+</div>
+
+
