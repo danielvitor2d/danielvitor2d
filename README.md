@@ -56,7 +56,6 @@
   <a href="https://www.hackerearth.com/@ripsea.rpg321">
     <img alt="Codechef" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />
   </a>
-  
   <a href="https://github.com/danielvitor2d/danielvitor2d">
     <img alt="Counter" src="https://komarev.com/ghpvc/?username=danielvitor2d&color=brightgreen" />
   </a>
