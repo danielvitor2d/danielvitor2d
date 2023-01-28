@@ -44,6 +44,19 @@
   <a href="mailto:danieldev.ti@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://twitter.com/DaniVito23">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/danielvitor23">
+    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/danielvitor23">
+    <img alt="Codechef" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" />
+  </a>
+  <a href="https://www.hackerearth.com/@ripsea.rpg321">
+    <img alt="Codechef" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />
+  </a>
+  
   <a href="https://github.com/danielvitor2d/danielvitor2d">
     <img alt="Counter" src="https://komarev.com/ghpvc/?username=danielvitor2d&color=brightgreen" />
   </a>
