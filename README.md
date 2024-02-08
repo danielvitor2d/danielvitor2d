@@ -12,7 +12,7 @@
   <img src="https://icongr.am/devicon/javascript-original.svg?size=35&color=currentColor" />
   <img src="https://icongr.am/devicon/typescript-original.svg?size=35&color=currentColor" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="35" height="35" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="35" height="35" /> -->
   <img src="https://icongr.am/devicon/react-original.svg?size=35&color=currentColor" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="35" height="35" />
@@ -59,16 +59,15 @@
   <a href="https://leetcode.com/danielvitor23/">
     <img alt"Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
-  <a href="https://github.com/danielvitor2d/danielvitor2d">
+<!--   <a href="https://github.com/danielvitor2d/danielvitor2d">
     <img alt="Counter" src="https://komarev.com/ghpvc/?username=danielvitor2d&color=brightgreen" />
-  </a>
+  </a> -->
 </div>
 
+<br />
 <div align="center">
-  <a href="https://github.com/danielvitor2d">
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danielvitor2d&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielvitor2d&show_icons=true&theme=radical&count_private=true&layout=compact&langs_count=8" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielvitor2d&show_icons=true&theme=radical&count_private=true" />
+  <a href="https://github.com/danielvitor2d" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=danielvitor2d&theme=react-dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielvitor2d&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
+  <img height="180px" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielvitor2d&layout=compact&langs_count=8&theme=algolia&count_private=true"/> 
 </div>
-
-
