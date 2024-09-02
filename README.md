@@ -1,8 +1,8 @@
 ## Hi, I'm Daniel Vitor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🔭 I’m currently working on ReactJS, NodeJS
-- 🌱 I’m currently learning ReactJS, NodeJS, React Native
-- ⚡ Fun fact: I like to practice Karate, read mangas and I program 90% of the time
+- 🔭 I’m currently working on Next.js, Nest.js
+- 🌱 I’m currently learning Go and Rust
+- ⚡ Fun fact: I like to practice Karate, read mangas and I program every day
 
 Website: [danielvitor.me](danielvitor.me)
 
