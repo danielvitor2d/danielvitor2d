@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Go and Rust
 - ⚡ Fun fact: I like to practice Karate, read mangas and I program every day
 
-Website: [https://danielvitor.me/pt](danielvitor.me)
+Website: [danielvitor.me](https://danielvitor.me/pt)
 
 <h2 align="left"> 🚀 Skills </h2>
 
