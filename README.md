@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Go and Rust
 - ⚡ Fun fact: I like to practice Karate, read mangas and I program every day
 
-Website: [personal-portfolio-mu-mauve.vercel.app/pt]([https://danielvitor.me/pt](https://personal-portfolio-mu-mauve.vercel.app/pt))
+Website: [personal-portfolio-mu-mauve.vercel.app/pt](https://personal-portfolio-mu-mauve.vercel.app/pt)
 
 <h2 align="left"> 🚀 Skills </h2>
 
